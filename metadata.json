@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Student-only academic and professional networking platform for universities, PYQs, project showcases, AI team matching, and student collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
